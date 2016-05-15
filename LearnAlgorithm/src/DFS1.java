@@ -6,5 +6,6 @@ public class DFS1 {
 		{
 			System.out.println("Hello");
 		}
+		System.out.println("Eclipse!");
 	}
 }
